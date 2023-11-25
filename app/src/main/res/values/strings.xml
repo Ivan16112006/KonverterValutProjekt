@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KonverterValut</string>
+    <string name="oglav">Конверетер валют</string>
+    <string name="from">Из валюты</string>
+    <string name="to">В валюту</string>
+    <string name="podskaz">Введите сумму</string>
+    <string name="title_activity_wibor_valut">wiborValut</string>
+    <string name="rub">Рубль</string>
+    <string name="usd">Доллор</string>
+    <string name="eur">Евро</string>
+    <string name="jpy">Японская иена</string>
+    <string name="gbp">Фунт стерлингов</string>
+    <string name="byn">Белорусский рубль</string>
+    <string name="cny">Китайский юань</string>
+    <string name="revers">Поменять</string>
+    <string name="result">считать</string>
+    <string-array name="arrayValutes">
+        <item id="0">RUB</item>
+        <item id="1">USD</item>
+        <item id="2">EUR</item>
+        <item id="3">JPY</item>
+        <item id="4">GBP</item>
+        <item id="5">BYN</item>
+        <item id="6">CNY</item>
+    </string-array>
+</resources>
